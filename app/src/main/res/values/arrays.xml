@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="spinner_uf">
+        <item>@string/spinner_uf_sp_text</item>
+        <item>@string/spinner_uf_rj_text</item>
+        <item>@string/spinner_uf_mg_text</item>
+        <item>@string/spinner_uf_ba_text</item>
+    </string-array>
+</resources>
