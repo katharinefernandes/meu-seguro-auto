@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Meu Seguro Auto</string>
+    <string name="app_header_title">Meu Seguro Auto</string>
+    <string name="app_header_subtitle">Seu seguro, do seu jeito</string>
+    <string name="send_text">Enviar</string>
+    <string name="back_text">Voltar</string>
+    <string name="name_text">Nome</string>
+    <string name="uf_text">Estado</string>
+    <string name="checkbox_accept_terms_text">Aceito os termos do seguro</string>
+    <string name="radio_option_basic_coverage_text">Cobertura básica</string>
+    <string name="radio_option_full_coverage_text">Cobertura completa</string>
+    <string name="switch_third_party_insurance_text">Seguro para terceiros</string>
+    <string name="seekbar_vehicle_year_text">Ano do veículo: %1$d</string>
+    <string name="spinner_empty_sp_text">Selecionar o estado</string>
+    <string name="spinner_uf_sp_text">São Paulo</string>
+    <string name="spinner_uf_rj_text">Rio de Janeiro</string>
+    <string name="spinner_uf_mg_text">Minas Gerais</string>
+    <string name="spinner_uf_ba_text">Bahia</string>
+    <string name="success_content_description">Logo do sucesso</string>
+    <string name="summary_text">"Nome: %1$s\nEstado: %2$s\nAceite: %3$s\nCobertura:
+%4$s\nSeguro para terceiros: %5$s\nAno do veículo: %6$d"</string>
+</resources>
