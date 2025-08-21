@@ -32,12 +32,19 @@ android {
     kotlinOptions {
         jvmTarget = "11"
     }
+<<<<<<< HEAD
     viewBinding {
         enable = true
     }
 }
 
 dependencies {
+=======
+}
+
+dependencies {
+
+>>>>>>> origin/master
     implementation(libs.androidx.core.ktx)
     implementation(libs.androidx.appcompat)
     implementation(libs.material)
